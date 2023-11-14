@@ -25,4 +25,5 @@ docker run -p 8501:8501 client-ocr
 
 
 <----------------------------------------------------------->
-check git ignore file
+check git ignore file ,
+ignore files are in drive ,shan1023
