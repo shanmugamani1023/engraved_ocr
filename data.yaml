@@ -1,0 +1,13 @@
+train: /home/ubuntu/mohit/OCR-FineTuning/text-detection/data/train/images
+val: /home/ubuntu/mohit/OCR-FineTuning/text-detection/data/valid/images
+test: ../test/images
+
+nc: 2
+names: ['DotPeeningText', 'MachinePeeningText']
+
+roboflow:
+  workspace: new-workspace-mqm6f
+  project: ocr_text_detection
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/new-workspace-mqm6f/ocr_text_detection/dataset/1

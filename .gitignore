@@ -1,0 +1,7 @@
+best.pt
+.ipynb_checkpoints
+.idea
+epoch=16-step=2086-val_accuracy=100.0000-val_NED=100.0000.ckpt
+ParseqPretrained.pth
+images
+yolov5
